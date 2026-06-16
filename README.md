@@ -134,8 +134,5 @@ The Employee Management System successfully centralizes employee, department, pa
 
 ## Technologies Used
 
-* MySQL
+* SQL
 * MySQL Workbench
-* SQL Queries
-* ER Diagram Modeling
-* Relational Database Design
